@@ -24,7 +24,7 @@ const Nav = () => {
   return (
     <TopNav>
       <Link href="/">
-        <a>POS-Node</a>
+        <a>P.O.S.</a>
       </Link>
       <Link href="/transactions">
         <a>Transactions</a>
